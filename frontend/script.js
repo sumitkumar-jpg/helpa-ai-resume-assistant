@@ -36,7 +36,7 @@ sendButton.addEventListener("click", async function () {
 
     try {
 
-        const response = await fetch("http://127.0.0.1:8000/chat", {
+        const response = await fetch("https://inspiring-harmony-production-020e.up.railway.app/chat", {
 
             method: "POST",
 
@@ -105,7 +105,7 @@ fileInput.addEventListener("change", async function () {
 
     try {
 
-        const response = await fetch("http://127.0.0.1:8000/upload", {
+        const response = await fetch("https://inspiring-harmony-production-020e.up.railway.app/upload", {
 
             method: "POST",
 
