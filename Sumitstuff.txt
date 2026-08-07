@@ -1,0 +1,97 @@
+# Sumit Kumar
+
+**Email:** sumitandkumarimp@gmail.com
+**Location:** Bokaro Steel City, Jharkhand, India
+**LinkedIn:** https://www.linkedin.com/in/sumit-kumar-a55b783bb/
+**GitHub:** https://github.com/sumitkumar-jpg
+
+---
+ 
+## Career Objective
+
+First-year B.Tech student specializing in Artificial Intelligence and Machine Learning with a strong interest in AI engineering, autonomous systems, and backend development. Passionate about building practical AI applications and continuously expanding my knowledge of modern AI technologies.
+
+---
+
+## Education
+**Schooling from Guru Gobind Sing Public School , Bokaro Steel City ,Jharkhand
+**CBSE Board
+**93 % in 10th class 
+**
+**Bachelor of Technology (B.Tech) – Computer Science Engineering (Artificial Intelligence & Machine Learning)**
+**ITER, SOA University**, Bhubaneswar, Odisha
+**Expected Graduation:** 2029
+
+---
+
+## Technical Skills
+
+* **Programming Languages:** Python, Java
+* **Database:** MySQL, SQL
+* **AI & Development:** Groq API, Pydantic
+* **Concepts:** Data Structures & Algorithms (Java), JSON Data Processing
+
+---
+
+## Projects
+
+### AI Resume Scorer
+
+* Developed an AI-powered resume scoring application that extracts information from resumes using the Groq API.
+* Utilized Pydantic to convert extracted data into structured JSON format for accurate comparison and evaluation.
+* Designed the project with the goal of enabling automated resume analysis and candidate assessment.
+
+### Helpa – AI Resume Assistant
+
+Description:
+
+Developed Helpa, a full-stack AI-powered resume assistant that enables recruiters and hiring managers to interact with my resume through natural language. The application allows users to ask questions about my education, skills, projects, and experience, as well as upload job descriptions or sample resumes for AI-powered comparison.
+
+The backend is built with FastAPI and integrates Groq's Llama 3.3 70B language model to generate accurate, context-aware responses. It extracts text from PDF, DOCX, and TXT documents and uses the uploaded content during conversations when relevant.
+
+The frontend was built using HTML, CSS, and JavaScript, providing a chatbot-style interface with real-time messaging, file uploads, automatic scrolling, Enter-to-send functionality, and loading indicators. Communication between the frontend and backend is handled through REST APIs using JavaScript's Fetch API.
+
+To support multiple users simultaneously, I implemented session-based conversation management, ensuring each user receives an independent chatbot with isolated conversation memory and uploaded documents. Refreshing the webpage automatically starts a fresh conversation without affecting other users.
+
+Technologies Used
+Python
+FastAPI
+Groq API
+Llama 3.3 70B
+HTML
+CSS
+JavaScript
+Pydantic
+PyPDF
+python-docx
+Key Features
+AI-powered resume question answering
+Upload and analyze PDF, DOCX, and TXT documents
+Resume vs. Job Description comparison
+Multi-turn conversation memory
+Session-based chatbot isolation for multiple users
+Chat-style web interface
+Real-time frontend-backend communication using Fetch API
+Loading indicators and responsive user interaction
+Skills Demonstrated
+Full-stack web development
+REST API development
+LLM integration
+Prompt engineering
+Document parsing and preprocessing
+Frontend-backend integration
+Session management
+State management
+Asynchronous programming
+JSON-based API communication
+
+---
+
+## Additional Information
+
+* Currently pursuing first-year B.Tech in AI & ML.
+* Actively learning Data Structures & Algorithms in Java.
+* Interested in Artificial Intelligence, autonomous systems, and backend development.
+
+
+
