@@ -1,8 +1,7 @@
 [project]
 name = "helpa-ai-resume-assistant"
 version = "1.0.0"
-description = "An AI-powered resume assistant that enables recruiters to chat with a resume 
-and compare it with uploaded job descriptions."
+description = "An AI-powered resume assistant that enables recruiters to chat with a resume and compare it with uploaded job descriptions."
 readme = "README.md"
 requires-python = ">=3.13"
 
